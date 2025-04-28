@@ -31,7 +31,7 @@ The disadvantages of this type of method are:
 2. Need to process the text to get the result
 3. Features are subject to available commands
 4. Even if adb has sufficient permissions, the app requires root privileges to run
-
+## shizuko pm
 ### Shizuku method
 
 The Shizuku app will direct the user to run a process (Shizuku service process) using root or adb.
@@ -43,3 +43,4 @@ The advantages of Shizuku are:
 
 1. Minimal extra time and performance consumption
 2. It is almost identical to the direct invocation API experience (app developers only need to add a small amount of code)
+control + shift + m tab esc tab 
