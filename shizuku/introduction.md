@@ -56,3 +56,6 @@ La aplicación Shizuku dirigirá al usuario a ejecutar un proceso (proceso de se
 
 1. Mínimo consumo de tiempo y rendimiento .
 2. Es casi idéntico a la experiencia de invocación directa de
+→ ~ cd registro de cambios de github
+→ ~/github-changelog| registro principal de git
+mostrando todos los cambios exitosamente 
